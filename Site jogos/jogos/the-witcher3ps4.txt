@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Dark Souls III</title>
+<link rel="stylesheet" type="text/css" href="../estilo.css"/>
+</head>
+
+<body>
+<div id="interface">
+<header id="cabecalho">
+
+<a id="logo" href="../index.html"><img src="../logo4.png" width="200" heigth="200" alt="Logo"/></a>
+
+<nav id="menu" role="navigation">
+<ul>
+<li><a href="../xbox.html">Xbox One</a></li>
+<li><a href="../ps4.html">Playstaition 4</a></li>
+<li><a href="../sobre.html">Sobre nós</a></li>
+</ul>
+</nav>
+
+
+
+</header>
+
+<article id="game">
+<img id="pj" src="../dark-souls3.jpg" width="300" heigth="400" alt="Dark Souls"/>
+<p><br>Dark Souls III <br> R$ 99,00</p>
+<a id="link" href="https://www.americanas.com.br/produto/25477904/jogo-dark-souls-iii-the-fire-fades-edition-xbox-one?DCSext.recom=RR_item_page.rr1-ClickCP&nm_origem=rec_item_page.rr1-ClickCP&nm_ranking_rec=4">Comprar</a>
+
+<table id="ij">
+<tr>
+<td>
+<img id="ig" src="../dark1.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../dark2.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../dark31.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+</tr><tr>
+<td>
+<img id="ig" src="../dark4.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../dark5.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../dark6.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+
+</tr>
+</table>
+
+</article>
+<div id="video"><br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0J4u1FD87FM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div id="if">
+<h1>Informações</h1>
+<p id="info">Dark Souls III: The Fire Fades inclui o jogo completo com todas as Dlc's e expansões, permitindo ao jogador incrementar sua experiência no jogo em dezenas de horas de gameplay, com novos mapas, chefes, inimigos, conjuntos de armas e armaduras.
+</p><p>
+À medida que os incêndios desaparecem e o mundo cai em ruína, viaje mais uma vez para um universo cheio de inimigos e ambientes cada vez mais colossais. Os fãs de longa data e os recém-chegados na franquia se perderão no gameplay recompensador e gráficos imersivos. 
+</p>
+<p>Enquanto as chamas recuam e o mundo cai em ruína, a desenvolvedora Fromsoftware e o diretor Hidetaka Miyazaki dão continuidade à aclamada e já clássica série, com Dark Souls III. Fãs e novos jogadores irão se perder na renomada e gratificante jogabilidade e nos gráficos imersivos. Agora, só restaram as cinzas...
+</p>
+<p>Características
+</p>
+<p>- Ambientação Atmosférica: Com a iluminação dinâmica e os efeitos de partículas, os jogadores mergulharão em um fantástico e obscuro mundo em ruínas!
+</p>
+<p>- Mundo Interligado: Um mundo esculpido com precisão encoraja os jogadores a explorar territórios vastos e exuberantes.
+</p>
+<p>- Ação com a Espada: Ação em combate diversificada permite aos jogadores criar seu próprio estilo de jogo.
+</p>
+<p>- Sistema Online Exclusivo: Evolução da característica funcionalidade multijogador online, que agora integra interações online na campanha de um jogador. 
+</p>
+</div>
+
+<table id="jg">
+<tr>
+<td>
+<a href="jogos/dark-souls3.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/><p><br>Dark Souls III<br>R$99,00</p></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+</tr>
+</table>
+
+<footer id="rodape">
+<br><br><br><br><br><br><br><br>
+<p>By João Pedro</p>
+
+</footer>
+
+
+</div>
+</body>
+
+</html>

@@ -1,0 +1,154 @@
+﻿@charset "UTF-8";
+body{
+	background-color: #dddddd;
+	color: rgba(0,0,0,1);
+}
+
+div#interface{
+	width: 950px;
+	background-color:white;
+	margin: -20px auto 0px auto;
+	box-shadow: 0px 0px 10px ragba(0,0,0,.5);
+	padding: 10px 10px 10px 10px;
+}
+header#cabecalho{
+	border-bottom: 1px #606060 solid;
+	height: 200px;
+}
+img#logo{
+	position:absolute;
+	top:70px;
+	left:220px;
+}
+nav#menu{
+	display: block;
+}
+
+nav#menu ul{
+	list-style: none;
+	text-transform: uppercase;
+	position:absolute;
+	top: -20px;
+	left: 710px;
+}
+
+nav#menu li{
+	display: inline-block;
+	background-color:#dddddd;
+	padding: 15px;
+	margin: 2px;
+	transition:background-color 1s;
+}
+
+nav#menu li:hover{
+	background-color:#606060;
+}
+
+nav#menu a{
+	
+	color:#000000;
+	text-decoration:none;
+	transition:color 1s;
+}
+nav#menu a:hover{
+	color:white;
+}
+table#jg p{
+	text-align:center;
+	color:black;
+	list-style: none;
+	text-transform: uppercase;
+}
+img#j{
+	margin-left: 5px;
+	margin-top:100px;
+}
+img#j:hover {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-webkit-transition: 0.4s all ease; 
+	-moz-transition: 0.4s all ease; 
+	-o-transition: 0.4s all ease;
+}
+img#pj{
+	margin-left: 27px;
+	margin-top:100px;
+}
+img#tw3{
+	margin-top:100px;
+	margin-left:-13px;
+}
+img#f4{
+	margin-top:100px;
+	margin-left:-13px;
+}
+img#g4{
+	margin-top:100px;
+	margin-left:15px;
+}
+article#game p{
+	margin-left:30px;
+}
+article#game a{
+	display: inline-block;
+	background-color:#dddddd;
+	padding: 15px;
+	margin: 2px;
+	transition:background-color 1s;
+	color:#000000;
+	text-decoration:none;
+	transition:color 1s;
+	position:absolute;
+	margin-top:-65px;
+	margin-left:250px;
+}
+
+article#game a:hover{
+	background-color:#606060;
+}
+table#ij{
+	position:absolute;
+	margin-top:-470px;
+	margin-left:330px;
+}
+table#ij img:hover{
+	-moz-transform: scale(2.5);
+	-webkit-transform: scale(2.5);
+	-o-transform: scale(2.5);
+	-webkit-transition: 0.4s all ease; 
+	-moz-transition: 0.4s all ease; 
+	-o-transition: 0.4s all ease;
+}
+div#if{
+	background-color:#dddddd;
+}
+div#if p{
+	text-align:justify;
+	margin-left:5px;
+	margin-rigth:5px;
+}
+div#video{
+	background-color:#dddddd;
+	padding:5px;
+}
+div#video iframe{
+	margin-top:-50px;
+	margin-left:200px;
+}
+
+nav#menu a:hover{
+	color:white;
+}
+
+footer#rodape{
+	margin-bottom:30px;
+}
+footer#rodape p{
+	margin-top:-20px;
+	margin-left:750px;
+}
+footer#rodape{
+	border-top: 1px #606060 solid;
+	height: 120px;
+}

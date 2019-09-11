@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>The Witcher 3</title>
+<link rel="stylesheet" type="text/css" href="../estilo.css"/>
+</head>
+
+<body>
+<div id="interface">
+<header id="cabecalho">
+
+<a id="logo" href="../index.html"><img src="../logo4.png" width="200" heigth="200" alt="Logo"/></a>
+
+<nav id="menu" role="navigation">
+<ul>
+<li><a href="../xbox.html">Xbox One</a></li>
+<li><a href="../ps4.html">Playstaition 4</a></li>
+<li><a href="../sobre.html">Sobre nós</a></li>
+</ul>
+</nav>
+
+
+
+</header>
+
+<article id="game">
+<img id="tw3" src="../the-witcher3.png" width="380" heigth="430" alt="The-witcher"/>
+<p><br>The Witcher 3 <br> R$ 76,00</p>
+<a id="link" href="https://www.americanas.com.br/produto/120853331/game-the-witcher-3-wild-hunt-xbox-one">Comprar</a>
+
+<table id="ij">
+<tr>
+<td>
+<img id="ig" src="../tw1.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../tw2.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../tw3.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+</tr><tr>
+<td>
+<img id="ig" src="../tw4.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../tw5.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../tw6.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+
+</tr>
+</table>
+
+</article>
+<div id="video"><br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sr-DKyAVU34?start=17" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<div id="if">
+<h1>Informações</h1>
+<p>No jogo The Witcher 3, um mal antigo acorda. Um mal que semeia o terror, seu nome é dito apenas em sussurros: Wild Hunt.
+Um conjunto de cavaleiros espectrais místicos com grande poder de destruição, sua caça tem um único alvo: humanos.
+</p>
+<p>A espada do destino tem dois gumes. Você é um deles!
+Imperdível, The Witcher 3: Wild Hunt é o capítulo final da aclamada e moderna saga de RPG. A equipe da CD Projekt RED pretende fazer de The Witcher 3: Wild Hunt um jogo rico, maior e mais profundo - um avanço na qualidade que irá elevar a franquia a outro patamar. Mapa gigantesco, sistema de combate aprimorado, escolhas que mudam o rumo da história!
+</p>
+<p>O mundo está um caos. O ar é espesso e carregado de tensão e fumaça dos vilarejos queimados. O temível Império de Nilfgaard atacou novamente, devastando os desafortunados do Reino do Norte. O outrora poderoso que tentou usar Geralt para seu próprio benefício agora esta desaparecido. Nesses tempos incertos, ninguém pode dizer o que guarda o futuro, quem trará paz ao mundo e quem irá causar apenas miséria.
+</p>
+<p>Mas uma força das trevas mortal emerge. Os pequenos homens e mulheres comandando exércitos despreparados não entendem que seus conflitos são jogo de criança comparado à Wild Hunt, a ameaça do outro mundo que agora se aproxima. Esses cavaleiros espectrais amaldiçoam o mundo há anos, afundando-o em miséria e desespero, mas nesse momento, Wild Hunt procura uma pessoa em particular, aquela unida a Geralt pelo destino, a única alma que Geralt considera familiar.
+</p>
+</div>
+
+<table id="jg">
+<tr>
+<td>
+<a href="jogos/dark-souls3.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/><p><br>Dark Souls III<br>R$99,00</p></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+</tr>
+</table>
+
+<footer id="rodape">
+<br><br><br><br><br><br><br><br>
+<p>By João Pedro</p>
+
+</footer>
+
+
+</div>
+</body>
+
+</html>

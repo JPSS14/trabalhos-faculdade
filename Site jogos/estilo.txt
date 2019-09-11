@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{
+	background-color: #dddddd;
+	color: rgba(0,0,0,1);
+}
+
+div#interface{
+	width: 950px;
+	background-color:white;
+	margin: -20px auto 0px auto;
+	box-shadow: 0px 0px 10px ragba(0,0,0,.5);
+	padding: 10px 10px 10px 10px;
+}

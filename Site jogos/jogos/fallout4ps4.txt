@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Fallout 4</title>
+<link rel="stylesheet" type="text/css" href="../estilo.css"/>
+</head>
+
+<body>
+<div id="interface">
+<header id="cabecalho">
+
+<a id="logo" href="../index.html"><img src="../logo4.png" width="200" heigth="200" alt="Logo"/></a>
+
+<nav id="menu" role="navigation">
+<ul>
+<li><a href="../xbox.html">Xbox One</a></li>
+<li><a href="../ps4.html">Playstaition 4</a></li>
+<li><a href="../sobre.html">Sobre nós</a></li>
+</ul>
+</nav>
+
+
+
+</header>
+
+<article id="game">
+<img id="f4" src="../fallout4.png" width="380" heigth="400" alt="Dark Souls"/>
+<p><br>Fallout 4 <br> R$ 45,00</p>
+<a id="link" href="https://www.americanas.com.br/produto/25477904/jogo-dark-souls-iii-the-fire-fades-edition-xbox-one?DCSext.recom=RR_item_page.rr1-ClickCP&nm_origem=rec_item_page.rr1-ClickCP&nm_ranking_rec=4">Comprar</a>
+
+<table id="ij">
+<tr>
+<td>
+<img id="ig" src="../fa1.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../fa2.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../fa3.png" width="200" heigth="200" alt="dark1"/>
+</td>
+</tr><tr>
+<td>
+<img id="ig" src="../fa4.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../fa31.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+<td>
+<img id="ig" src="../fa6.jpg" width="200" heigth="200" alt="dark1"/>
+</td>
+
+</tr>
+</table>
+
+</article>
+<div id="video"><br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GE2BkLqMef4?start=5" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<div id="if">
+<h1>Informações</h1>
+<p>Como o único sobrevivente do Vault 111, você entrará em um mundo destruído pela guerra nuclear. Cada segundo é uma luta pela sobrevivência, e todas as escolhas são suas. Só você poderá reconstruir e determinar o destino da terra desolada.
+</p>
+<p>Liberdade! Faça o que quiser em um enorme mundo aberto, com centenas de localidades, personagens e missões. Junte-se a várias facções que disputam o poder ou busque sozinho, as escolhas são todas suas.
+</p>
+<p>Você é E.S.P.E.C.I.A.L! Seja quem você quiser com o sistema E.S.P.E.C.I.A.L. de personagem. Desde um soldado com forte armamento até um carismático locutor, você pode escolher entre centenas de regalias e desenvolver seu próprio estilo de jogo.
+</p>
+<p>Pixels Super Luxuosos! Com novíssimos e alucinantes gráficos de última geração e um novo motor de iluminação, Fallout 4 traz à vida o mundo de Fallout como nunca antes. Das florestas amaldiçoadas de Commonwealth para as ruínas de Boston, cada local é embalado com ricos e impressionantes detalhes.
+</p>
+<p>Violência e VATS! Intenso combate em primeira ou terceira pessoa pode também ser abrandada com o novo e dinâmico sistema "Vault-Tec Assisted Targeting System", que permite escolher seus ataques e curtir a carnificina cinematográfica.
+</p>
+<p>Colete e construa! Colete, atualize e construa milhares de itens no mais avançado sistema de criação. Armas, armaduras, produtos químicos e alimentos são apenas o começo - você mesmo pode construir e gerir toda sua colônia. 
+</p>
+</div>
+
+<table id="jg">
+<tr>
+<td>
+<a href="jogos/dark-souls3.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/><p><br>Dark Souls III<br>R$99,00</p></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+<td>
+<a href="xbox.html"><img id="j" src="../dark-souls3.jpg" width="200" heigth="250" alt="Dark Souls"/></a>
+</td>
+</tr>
+</table>
+
+<footer id="rodape">
+<br><br><br><br><br><br><br><br>
+<p>By João Pedro</p>
+
+</footer>
+
+
+</div>
+</body>
+
+</html>

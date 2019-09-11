@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Games Brotherhood</title>
+</head>
+
+<body>
+<div id="interface">
+<header id="cabecalho">
+
+<nav id="menu" role="navigation">
+<ul>
+<li><a href="">Xbox One</a></li>
+<li><a href="">Playstaition 4</a></li>
+<li><a href="">Sobre nós</a></li>
+</ul>
+</nav>
+
+
+
+</header>
+
+<table>
+<tr>
+<td>
+<a href=""></a>
+</td>
+</tr>
+</table>
+
+
+
+</div>
+</body>
+
+</html>
