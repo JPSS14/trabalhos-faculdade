@@ -1,0 +1,123 @@
+h1{
+    font-family: 'arial',sans-serif;
+    font-size: 50px;
+    text-align:center;
+    padding: 10px;
+    color: white;
+}
+h2{
+    font-family: 'arial',sans-serif;
+    font-size: 50px;
+    text-align:center;
+    padding: 10px;
+    color: black;
+}
+p{
+    font-family: 'arial',sans-serif;
+    font-size: 1.8em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+.cont_federer{
+    margin-top: 30%;
+    border: solid 2px black;
+    position: relative;
+    border-radius:50px;
+    background-color: #ddd;
+}
+.cont_lebron{
+    margin-top: 35%;
+    border: solid 2px black;
+    position: relative;
+    border-radius:50px;
+    background-color: #ddd;
+}
+header{
+    width: 100%;
+    margin-top:-30px;
+    background-color: dimgray;
+    border-radius: 50px;
+}
+
+.federer{
+    margin-top:10px;
+    position: relative;
+    
+}
+.titulo{
+    width: 100%;
+    border-radius: 50px;
+    border: solid 2px black;
+    margin-top: 2%;
+}
+.autog_federer{    
+    position: absolute;
+    width: 10%;
+    margin-left: 1%;
+   
+}
+.lebron{
+    margin-top: 10px; 
+}
+.autog_lebron{    
+    position: absolute;
+    width: 7%;
+    margin-left: 2%;
+
+   
+}
+body{
+  
+}
+
+
+
+.img1{
+    width: 50%;
+    position: relative;
+    float:left;
+    border-radius: 50px;
+}
+
+.img2{
+    width: 24%;
+    position: relative;
+    float:left;
+    border-radius: 50px;
+    margin-left: 1%;
+}
+.img3{
+    width: 24%;
+    position: relative;
+    float:left;
+    border-radius: 50px;
+    margin-left: 1%;
+
+}
+.img4{
+    width: 24%;
+    position: relative;
+    float:left;
+    border-radius: 50px;
+    margin-left: 1%;
+    margin-top: 1%;
+  
+
+}
+.img5{
+    width: 24%;
+    position: relative;
+    float:left;
+    border-radius: 50px;
+    margin-left: 1%;
+    margin-top: 1%;
+  
+}
+
+iframe{
+    position: relative;
+    margin-top: 1%;
+    
+    border-radius: 50px;
+}
