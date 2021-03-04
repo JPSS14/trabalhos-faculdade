@@ -1,0 +1,308 @@
+header{
+    width: 100%;
+    height: 80px;
+    background-color:#30518A;
+    margin-top: -21px;
+    
+}
+#titulo_cabecalho{
+    color:white;
+    text-align: center;
+    padding-top: 18px;
+    font-family:cursive;
+}
+#topico{
+    font-family: cursive;
+    color:black; 
+}
+#subTopico{
+    font-family: cursive;
+    color:black;
+    margin-top: -1%;
+}
+.conteudoTopico{
+    background-color: #4574C4;
+    font-family: cursive;
+    color:white;
+    text-align: center;
+}
+.conteudoSubTopico{
+    font-family: cursive;
+    color:black;
+    margin-top: -3%;
+    margin-left: 2%;
+}
+#infografico{
+    background-color:white;
+    width: 49%;
+    float:left;
+    margin-top: 1%;
+    position: fixed;
+}
+#info_titulo{
+    background-color: #4574C4;
+    font-family: cursive;
+    color:white;
+    text-align: center;
+}
+
+
+
+#conteudo1i{
+    margin-left: 35%;
+}
+#conteudo1h, #conteudo2h,
+#conteudo3h,#conteudo4h,
+#conteudo5h, #conteudo6h,
+#conteudo7h,#conteudo8h,
+#conteudo9h, #conteudo10h,
+#conteudo11h,#conteudo12h,
+#conteudo13h{
+    cursor: pointer;
+}
+
+
+
+/*------ DIV CONTEUDO ------ */
+
+#conteudo1{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo2{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo3{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo4{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo5{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo6{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo7{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo8{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo9{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo10{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo11{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo12{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+#conteudo13{
+    background-color:white;
+    width: 50%;
+    float:right;
+    height: 100%;
+    margin-top: 1%;
+    position: relative;
+    display:none;
+}
+
+/*------ DIV CONTEUDO ------ */
+
+
+
+/*------ DIV CONTEUDO TEXTO ------ */
+
+#conteudo1t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo2t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo3t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo4t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo5t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo6t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo7t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo8t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo9t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo10t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo11t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo12t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+#conteudo13t{
+    font-family:cursive;
+    font-size: 1.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+/*------ DIV CONTEUDO TEXTO ------ */
