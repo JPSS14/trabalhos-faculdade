@@ -1,85 +1,98 @@
 <!DOCTYPE html> <!-- obrigatório para identificar que é um documento html5 -->
 
-<html> <!-- esta tag delimita todo o código html-->
+<html>
+<!-- esta tag delimita todo o código html-->
 
-	<head> <!-- é o cabeçalho do arquivo, é usado para carregar arquivos externos-->
-		<meta charset="UTF-8"> <!-- utilizado para determinar o padrão de letras-->
-		<link rel="stylesheet" href="css.css"> <!-- carrega um css externo-->
-        <title>Hamburgueria</title> <!-- titulo da pagina-->
-        <link rel="icon" href="imagens/Logoo.png"> <!-- adiciona o icone da pagina-->
-	</head>
-	
-	<body> <!-- todo os elementos estruturais e visuais são codificados dentro desssa tag-->
-	
-		<header> <!-- cabeçalho da pagina-->
-			
-			<nav> <!-- utilizado para determinar um menu-->
-				<img src="imagens/Logoo.png"> <!-- carrega imagem-->
-			</nav>
-			
-		</header>
-		
-		<div class="topo"> <!-- usado para fins de organização visual e semantica do código-->
-			<a href="#1"><img src="imagens/frango.png"></a> <!-- direciona para uma area especifica do site -->
-			<a href="#2"><img src="imagens/burguer.png"></a>
-			<a href="#3"><img src="imagens/pizza.png"></a>
+<head>
+	<!-- é o cabeçalho do arquivo, é usado para carregar arquivos externos-->
+	<meta charset="UTF-8"> <!-- utilizado para determinar o padrão de letras-->
+	<link rel="stylesheet" href="css.css"> <!-- carrega um css externo-->
+	<title>Hamburgueria</title> <!-- titulo da pagina-->
+	<link rel="icon" href="imagens/Logoo.png"> <!-- adiciona o icone da pagina-->
+</head>
+
+<body>
+	<!-- todo os elementos estruturais e visuais são codificados dentro desssa tag-->
+
+	<header>
+		<!-- cabeçalho da pagina-->
+		<div class="img_container">
+			<img src="imagens/Logoo.png"> <!-- carrega imagem-->
 		</div>
-		
-		<div id="conteudo">
-			<p>O Fabuloso Burguer nasceu em 2015 e desde então acompanho sua evolução. Passou de uma boa ideia em um local pequeno e esfumaçado para um dos points de CG.</p> <!-- agrupa um paragrafo-->
+	</header>
 
-			<p>	O hambúrguer é um dos melhores do Rio de Janeiro, já começa por aí. O ambiente cresceu, é super descolado e o atendimento é sempre ótimo. Rafael e Fábio, os sócios, se esforçam pra garantir sempre a qualidade que fez o lugar ficar famoso.</p>
+	<nav class="topo">
+		<!-- usado para fins de organização visual e semantica do código-->
+		<a href="#1"><img src="imagens/frango.png"></a> <!-- direciona para uma area especifica do site -->
+		<a href="#2"><img src="imagens/burguer.png"></a>
+		<a href="#3"><img src="imagens/pizza.png"></a>
+	</nav>
 
-			<p>	Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
-		</div>
-		<div class="box_conteudo" id="1">
-			<img src="imagens/frango.png">
-		      
-            <p>Um dos pratos mais tradicionais da gastronomia americana, o frango com batata frita não poderia ficar de fora do cardápio do "Burger da Lulu". </p>
+	<div id="conteudo">
+		<p>O Fabuloso Burguer nasceu em 2015 e desde então acompanho sua evolução. Passou de uma boa ideia em um local
+			pequeno e esfumaçado para um dos points de CG.</p> <!-- agrupa um paragrafo-->
 
-			<p>	O prato pode ser montado de algumas formas: </p>
-                
-            <p> Prato individual que contém uma porção de batata e frango. </p>
-            
-            <p> Prato triplo que contém três porções de batata e frango. 
-                
-                     
-                   
-               
-            </p>
+		<p> O hambúrguer é um dos melhores do Rio de Janeiro, já começa por aí. O ambiente cresceu, é super descolado e
+			o atendimento é sempre ótimo. Rafael e Fábio, os sócios, se esforçam pra garantir sempre a qualidade que fez
+			o lugar ficar famoso.</p>
 
-			<p>	Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
-		</div>
-        
-        <div class="box_conteudo" id="2">
-			<img src="imagens/burguer.png">
-		      
-            <p>O Fabuloso Burguer nasceu em 2015 e desde então acompanho sua evolução. Passou de uma boa ideia em um local pequeno e esfumaçado para um dos points de CG.</p>
+		<p> Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
+	</div>
+	<div class="box_conteudo" id="1">
+		<img src="imagens/frango.png">
 
-			<p>	O hambúrguer é um dos melhores do Rio de Janeiro, já começa por aí. O ambiente cresceu, é super descolado e o atendimento é sempre ótimo. Rafael e Fábio, os sócios, se esforçam pra garantir sempre a qualidade que fez o lugar ficar famoso.</p>
+		<p>Um dos pratos mais tradicionais da gastronomia americana, o frango com batata frita não poderia ficar de fora
+			do cardápio do "Burger da Lulu". </p>
 
-			<p>	Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
-		</div>
-        
-        <div class="box_conteudo" id="3">
-			<img src="imagens/pizza.png">
-		      
-            <p>O Fabuloso Burguer nasceu em 2015 e desde então acompanho sua evolução. Passou de uma boa ideia em um local pequeno e esfumaçado para um dos points de CG.</p>
+		<p> O prato pode ser montado de algumas formas: </p>
 
-			<p>	O hambúrguer é um dos melhores do Rio de Janeiro, já começa por aí. O ambiente cresceu, é super descolado e o atendimento é sempre ótimo. Rafael e Fábio, os sócios, se esforçam pra garantir sempre a qualidade que fez o lugar ficar famoso.</p>
+		<p> Prato individual que contém uma porção de batata e frango. </p>
 
-			<p>	Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
-		</div>
-		
-		<!--<div class="conteudo_frango">
+		<p> Prato triplo que contém três porções de batata e frango.
+
+
+
+
+		</p>
+
+		<p> Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
+	</div>
+
+	<div class="box_conteudo" id="2">
+		<img src="imagens/burguer.png">
+
+		<p>O Fabuloso Burguer nasceu em 2015 e desde então acompanho sua evolução. Passou de uma boa ideia em um local
+			pequeno e esfumaçado para um dos points de CG.</p>
+
+		<p> O hambúrguer é um dos melhores do Rio de Janeiro, já começa por aí. O ambiente cresceu, é super descolado e
+			o atendimento é sempre ótimo. Rafael e Fábio, os sócios, se esforçam pra garantir sempre a qualidade que fez
+			o lugar ficar famoso.</p>
+
+		<p> Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
+	</div>
+
+	<div class="box_conteudo" id="3">
+		<img src="imagens/pizza.png">
+
+		<p>O Fabuloso Burguer nasceu em 2015 e desde então acompanho sua evolução. Passou de uma boa ideia em um local
+			pequeno e esfumaçado para um dos points de CG.</p>
+
+		<p> O hambúrguer é um dos melhores do Rio de Janeiro, já começa por aí. O ambiente cresceu, é super descolado e
+			o atendimento é sempre ótimo. Rafael e Fábio, os sócios, se esforçam pra garantir sempre a qualidade que fez
+			o lugar ficar famoso.</p>
+
+		<p> Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
+	</div>
+
+	<!--<div class="conteudo_frango">
 			<p>O Fabuloso Burguer nasceu em 2015 e desde então acompanho sua evolução. Passou de uma boa ideia em um local pequeno e esfumaçado para um dos points de CG.</p>
 
 			<p>	O hambúrguer é um dos melhores do Rio de Janeiro, já começa por aí. O ambiente cresceu, é super descolado e o atendimento é sempre ótimo. Rafael e Fábio, os sócios, se esforçam pra garantir sempre a qualidade que fez o lugar ficar famoso.</p>
 
 			<p>	Final de semana tem sempre fila. Mas vale a pena. Você não irá se arrepender.</p>
 		</div>-->
-		
-	</body>
+
+</body>
 
 
 </html>
