@@ -1,25 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
 body{
 	
 	background: url("imagens/fundo.jpg"); /* carrega uma imagem como background*/
 	
 }
 
-nav{
-	
-	margin-left: -5px; /* margem esquerda*/
-	width: 100%; /* largura*/
-	height: 15%; /* altura*/
-	background-color: #ddd; /* cor de fundo */
-	border-radius: 50px; /* arredondar borda */
-	border: solid 5px black; /* tipo da borda, tamanho da borda, cor da borda */
-    float: left; /* posição*/
+header{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background: #fff;
 }
-nav img{
-	width: 15%; 
-	margin-left: 45%;
 
+.img_container{
+	flex-basis: 15%;
+	justify-content: center;
 }
-div{
+
+.img_container img{
+	width: 100%;
+}
+nav{
 	margin-top: 4%; /*margem superior */
 	background-color: white;
 	border-radius: 50px;
@@ -28,7 +32,7 @@ div{
     width: 99.5%;
     margin-bottom: 4%; /* margem inferior*/
 }
-div img {
+nav a img {
     width: 25%;
 	margin-left: 5%;
 }
